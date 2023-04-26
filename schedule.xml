@@ -1,0 +1,5452 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataArray>
+	<Nacalo>25.04.2023 20:00:08</Nacalo>
+	<Dataz>
+		<DataZan>2023-04-24</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы проектной деятельности</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы безопасности жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы информационной безопасности</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы информационной безопасности</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы проектной деятельности</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Технология разработки и защиты баз данных</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Теория вероятностей и математическая статистика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы проектной деятельности</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы проектной деятельности</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы проектной деятельности</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы безопасности жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы безопасности жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы безопасности жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Технология и организация турагентской деятельности</Predmet>
+				<Prepod>Ксенофонтов Аркадий Анатольевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Медико-биологические и социальные основы здоровья</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык в сфере профессиональной коммуникации</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Dataz>
+		<DataZan>2023-04-25</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Технические средства информатизации</Predmet>
+				<Prepod>Нерлов Михаил Иванович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Технические средства информатизации</Predmet>
+				<Prepod>Нерлов Михаил Иванович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы философии</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы философии</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы философии</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Дискретная математика с элементами математической логики</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обеспечение качества функционирования компьютерных систем</Predmet>
+				<Prepod>Тарасова Туйаара Михайловна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Родная литература</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Бердников Александр Николаевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Уголовный процесс</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Бердников Александр Николаевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Бердников Александр Николаевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Бердников Александр Николаевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы православной культуры</Predmet>
+				<Prepod>Коробкин Александр Александрович</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Технология и организация сопровождения туристов</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Dataz>
+		<DataZan>2023-04-26</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русский язык</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русский язык</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Компьютерные сети</Predmet>
+				<Prepod>Нерлов Михаил Иванович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Компьютерные сети</Predmet>
+				<Prepod>Нерлов Михаил Иванович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Компьютерные сети</Predmet>
+				<Prepod>Нерлов Михаил Иванович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Интернет-маркетинг</Predmet>
+				<Prepod>Виниченко Вера Афанасьевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русский язык</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русский язык</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русский язык</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Каштанов Игорь Петрович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминология и предупреждение преступлений</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Каштанов Игорь Петрович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Каштанов Игорь Петрович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Начальная профессиональная подготовка и введение в специальность</Predmet>
+				<Prepod>Каштанов Игорь Петрович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Кириллина Дайаана Владимировна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Кириллина Дайаана Владимировна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Право социального обеспечения</Predmet>
+				<Prepod>Винокурова Мария Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Кириллина Дайаана Владимировна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Организация досуга туристов</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Организация досуга туристов</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Dataz>
+		<DataZan>2023-04-27</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Технология создания и обработки мультимедийной информации</Predmet>
+				<Prepod>Тронь Татьяна Александровна</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Ноговицын Андрей Андреевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка программных модулей</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Графический дизайн и мультимедиа</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка программных модулей</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Цвикальский Андрей Константинович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка программных модулей</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Цвикальский Андрей Константинович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Операционные системы и среды</Predmet>
+				<Prepod>Григорьев Сергей Сергеевич                        </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Криминалистика</Predmet>
+				<Prepod>Оболкина Анджела Леонидовна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Статистика</Predmet>
+				<Prepod>Московских Наталья Николаевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Статистика</Predmet>
+				<Prepod>Московских Наталья Николаевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Конституционное право</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Статистика</Predmet>
+				<Prepod>Московских Наталья Николаевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Ноговицына Инна Иннокентьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>История</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Технология и организация турагентской деятельности</Predmet>
+				<Prepod>Ксенофонтов Аркадий Анатольевич</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык в сфере профессиональной коммуникации</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Иностранный язык</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Dataz>
+		<DataZan>2023-04-28</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Ноговицын Андрей Андреевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Иностранный язык в профессиональной деятельности</Predmet>
+				<Prepod>Мелехова Анна Александровна </Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Русский язык и культура речи</Predmet>
+				<Prepod>Дьяконова Акулина Ильинична</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Физика</Predmet>
+				<Prepod>Алексеев Дмитрий Апполлонович</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Максимова Варвара Васильевна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Гузаирова Лина Семеновна</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Тактико-специальная подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Огневая подготовка</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Ноговицын Андрей Андреевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Ноговицын Андрей Андреевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Математика</Predmet>
+				<Prepod>Красильников Дмитрий Алексеевич</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>География</Predmet>
+				<Prepod>Томская Светлана Игнатьевна</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Информатика</Predmet>
+				<Prepod>Ноговицын Андрей Андреевич</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Физическая культура</Predmet>
+				<Prepod>Берестенкова Анна Ивановна</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Медико-биологические и социальные основы здоровья</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Рогожина Татьяна Васильевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Литература</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Мировая художественная культура</Predmet>
+				<Prepod>Штыгашева Ольга Геннадьевна</Prepod>
+				<Kabinet>каб. 060 – мудл ВКС, архив</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Dataz>
+		<DataZan>2023-04-29</DataZan>
+		<Group>
+			<Group>В-9-22_IT</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>В-9-22_Ю</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Электроника и схемотехника</Predmet>
+				<Prepod>Захаров Николай Тимофеевич</Prepod>
+				<Kabinet>каб. 607</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-20</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>УП.1.01 Учебная практика </Predmet>
+				<Prepod>Крымова Олеся Викторовна</Prepod>
+				<Kabinet>каб. 501</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИБ-9-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-21</Group>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Языки программирования</Predmet>
+				<Prepod>Цвикальский Андрей Константинович</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка мобильных приложений</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Системное программирование</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-22(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка мобильных приложений</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Системное программирование</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>5</NomerPari>
+				<TimePari>15.20- 16.50</TimePari>
+				<Predmet>Разработка мобильных приложений</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>6</NomerPari>
+				<TimePari>16.55- 18.25</TimePari>
+				<Predmet>Системное программирование</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-21(4)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Основы алгоритмизации и программирования</Predmet>
+				<Prepod>Новиков Павел Леонидович</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Архитектура аппаратных средств</Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 506</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Внедрение и поддержка компьютерных систем</Predmet>
+				<Prepod>Курилкина Анна Петровна</Prepod>
+				<Kabinet>каб. 406</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>7</NomerPari>
+				<TimePari>18.30- 20.00</TimePari>
+				<Predmet>Русская литература</Predmet>
+				<Prepod>Пономарева Раиса Дмитриевна</Prepod>
+				<Kabinet>Moodle</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КИСП-9-22(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Астрономия</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Разговоры о важном </Predmet>
+				<Prepod>Аветисян Ани Тиграновна</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-22</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-20(3)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(1)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-21(3)</Group>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Специальная техника</Predmet>
+				<Prepod>Шевелев Николай Робертсонович</Prepod>
+				<Kabinet>каб. 402 ., актовый зал</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(1)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПД-9-22(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-21(2)</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Психология социально-правовой деятельности</Predmet>
+				<Prepod>Борисова Анна Николаевна</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Безопасность жизнедеятельности</Predmet>
+				<Prepod>Янков Денис Николаевич</Prepod>
+				<Kabinet>Спортивный зал</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Теория государства и права</Predmet>
+				<Prepod>Гусак Сергей Николаевич</Prepod>
+				<Kabinet>каб. 608</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КПСО-9-22</Group>
+			<NomerPari>
+				<NomerPari>1</NomerPari>
+				<TimePari>8.00-   9.30</TimePari>
+				<Predmet>Обществознание</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>2</NomerPari>
+				<TimePari>9.40-  11.10</TimePari>
+				<Predmet>Право</Predmet>
+				<Prepod>Рунев Андрей Олегович</Prepod>
+				<Kabinet>каб. 605</Kabinet>
+			</NomerPari>
+		</Group>
+		<Group>
+			<Group>КТУ-22</Group>
+			<NomerPari>
+				<NomerPari>3</NomerPari>
+				<TimePari>11.40- 13.10</TimePari>
+				<Predmet>Технология и организация сопровождения туристов</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+			<NomerPari>
+				<NomerPari>4</NomerPari>
+				<TimePari>13.30- 15.00</TimePari>
+				<Predmet>Технология и организация сопровождения туристов</Predmet>
+				<Prepod>Рогожин Василий Васильевич</Prepod>
+				<Kabinet>каб. 502</Kabinet>
+			</NomerPari>
+		</Group>
+	</Dataz>
+	<Konec>25.04.2023 20:00:08</Konec>
+</DataArray>
